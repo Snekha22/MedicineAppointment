@@ -76,7 +76,6 @@ src/main/resources/templates
 
 ---
 ## 🚀 Getting Started
-
 ## Prerequisites
 
 - Java 17+
