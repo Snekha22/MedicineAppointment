@@ -137,6 +137,47 @@ mvn spring-boot:run
 
 - Available at:
 ```http://localhost:8080/swagger-ui/index.html```
+---
+
+## Output
+
+![Screenshot 2025-04-27 090507](https://github.com/user-attachments/assets/973b6720-b621-4787-99d3-6ecfff22d44f)
+
+![image](https://github.com/user-attachments/assets/a522a91d-efe4-4a71-8704-44ca35198d61)
+
+![Screenshot 2025-04-27 090540](https://github.com/user-attachments/assets/3de5e084-224e-40d5-a1b1-bcc82470f567)
+
+![Screenshot 2025-04-27 090610](https://github.com/user-attachments/assets/0421a58f-1c23-40ac-88d5-3723fc9a8c0d)
+
+![image](https://github.com/user-attachments/assets/c9ace4b0-230a-493a-a03d-6d9aea66b656)
+
+![image](https://github.com/user-attachments/assets/f3b4d72a-ce6e-481c-837b-74434cb9b178)
+
+![image](https://github.com/user-attachments/assets/14168d0e-44ce-4151-b5c1-2004be745e53)
+
+![image](https://github.com/user-attachments/assets/d78c2b9b-f113-4afe-8aa2-9a5ed1b569f9)
+
+![image](https://github.com/user-attachments/assets/551db9b3-9aa1-4d29-bb5c-f50f5c6bc418)
+
+![image](https://github.com/user-attachments/assets/6fde0134-7473-4498-8c59-ca9d24dd1e7d)
+
+![image](https://github.com/user-attachments/assets/a60c209d-8e81-4358-b08e-8073353c49ea)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
